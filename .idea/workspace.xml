@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88e5b7df-6542-454e-85d4-b5c98d574f11" name="Changes" comment="" />
+    <list default="true" id="88e5b7df-6542-454e-85d4-b5c98d574f11" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2024-06-02 KPT.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +12,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2hHW64JiHj4UcCd0eZl6oGklYz4" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -22,7 +24,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/chae0/OneDrive/Desktop/DailyCheck",
+    "last_opened_file_path": "C:/Users/chae0/Desktop/DailyCheck",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -44,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717251304778</updated>
       <workItem from="1717251305818" duration="9000" />
+      <workItem from="1717344642786" duration="345000" />
     </task>
     <servers />
   </component>
